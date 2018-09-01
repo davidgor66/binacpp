@@ -1,6 +1,9 @@
 
 # Binance C++ API
 
+#### Whats ths?
+this is the c++ api from binance with inprovements, like better error handling and more class Based
+
 #### Installation
     git clone https://github.com/tensaix2j/binacpp    
 
@@ -232,7 +235,6 @@ You can refer to the following Makefile to get a better picture...
  		
 	BinaCPP_websocket::enter_event_loop(); 
 
-[example.cpp](https://github.com/tensaix2j/binacpp/blob/master/example/example.cpp)
 
 	
 
